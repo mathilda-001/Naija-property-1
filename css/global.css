@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --bg--color:#ffffff;
+  --text--color:#000000;
+  --font--family: sans-serif;
+}
+body{
+  background-color: var(--bg--color);
+  color: var(--text--color);
+  font-family: var(--font--family);
+}
+a{
+ text-decoration: none;  
+ color: inherit;
+}
+li{
+  list-style-type: none;
+}
+img{
+  max-width: 100%;
+  height:  auto;
+  display: block;
+}
+.container{
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
