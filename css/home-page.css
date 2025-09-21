@@ -8,3 +8,6 @@
 h1{
   color: var(--primary-text);
 }
+p{
+  color: green;
+}
