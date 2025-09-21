@@ -1,0 +1,13 @@
+
+:root{
+  --bg--color:#ffffff;
+  --text--color:hsl(0, 0%, 0%);
+  --font--family: sans-serif;
+  --primary-text: dodgerblue;
+}
+h1{
+  color: var(--primary-text);
+}
+p{
+  color: green;
+}
